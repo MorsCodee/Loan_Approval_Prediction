@@ -95,8 +95,8 @@ I used the [Loan Approval Prediction Dataset](https://www.kaggle.com/datasets) (
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/loan-approval-prediction.git
-   cd loan-approval-prediction
+   git clone https://github.com/MorsCodee/Loan_Approval_Prediction.git
+   cd Loan_Approval_Prediction
    ```
 2. Install required libraries:
 
